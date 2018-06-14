@@ -1,1 +1,34 @@
 /* You can add global styles to this file, and also import other style files */
+.colorprimary{
+    background: -webkit-radial-gradient(center center, circle ,#000000, #ffde03)
+}
+.colorsecundary{
+    background:linear-gradient(to right,#0336ff,white)
+}
+.colortercery{
+    
+    background-color: #ff0266
+}
+.colorfourty{
+    background:-webkit-linear-gradient(top,rgba(0, 132, 255, 0.952), gold);
+    
+}
+.letrallamativa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    color: rgba(255, 255, 255, 0.849)
+    
+}
+.letraregular{
+    font-family: cursive;
+    font-size: x-large;
+    color: #000000
+    
+}
+.colorbasico{
+    background:linear-gradient(to right,#ffde03,#ff0266)
+}
+.central{
+    margin-top: -100px;
+    margin-left: 50px
+}
