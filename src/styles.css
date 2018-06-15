@@ -3,14 +3,14 @@
     background: -webkit-radial-gradient(center center, circle ,#000000, #ffde03)
 }
 .colorsecundary{
-    background:linear-gradient(to right,#0336ff,white)
+    background:linear-gradient(to left,#0336ff,#000000)
 }
 .colortercery{
     
     background-color: #ff0266
 }
 .colorfourty{
-    background:-webkit-linear-gradient(top,rgba(0, 132, 255, 0.952), gold);
+    background:-webkit-linear-gradient(top,rgba(2, 27, 51, 0.952), rgb(4, 18, 145));
     
 }
 .letrallamativa{
@@ -26,9 +26,16 @@
     
 }
 .colorbasico{
-    background:linear-gradient(to right,#ffde03,#ff0266)
+    background: #060752
 }
 .central{
     margin-top: -100px;
     margin-left: 50px
+}
+
+.btn-start {
+    position: fixed;
+    z-index: 2500;
+    margin-top: -175px;
+    margin-left: 45%;
 }
